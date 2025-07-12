@@ -12,3 +12,8 @@ def print_info():
 
 
 
+def print_phone():
+    return '+79999999999'
+
+
+
