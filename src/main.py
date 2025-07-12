@@ -3,5 +3,5 @@ def print_hello():
 
 
 
-def print_info():
-    return 'Info'
+def print_day():
+    return 'Day'
